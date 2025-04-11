@@ -22,7 +22,7 @@ Project shows the process of building a home lab using virutal machines that all
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/a/I4Jdet8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://ibb.co/3mgTwf4W" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
